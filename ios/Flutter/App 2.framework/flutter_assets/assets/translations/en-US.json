@@ -1,0 +1,22 @@
+{
+  "menu": "Menu",
+  "cart": "Cart",
+  "feedback": "Feedbacks",
+  "syncdb": "Sync Database",
+  "en": "English",
+  "ar": "عربى",
+  "syncing_db": "Syncing database...",
+  "percent": "{}%",
+  "confirm": "Confirm",
+  "sync_confirm_question": "Are you sure you want to proceed database sync?...",
+  "orders":  "Orders",
+  "total": "Total: {}",
+  "sar": "SAR",
+  "clear_order": "Clear order",
+  "please_input_password": "Please input password...",
+  "password": "Password",
+  "cancel": "Cancel",
+  "next": "Next",
+  "something_wrong_late": "Something went wrong. Please try again later...",
+  "invalid_password": "Invalid Password"
+}
